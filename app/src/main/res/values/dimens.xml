@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="edge_margin">16dp</dimen>
+    <dimen name="meme_element_distance">48dp</dimen>
+    <dimen name="button_edge_distance">4dp</dimen>
+</resources>
